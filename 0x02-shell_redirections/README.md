@@ -9,3 +9,4 @@ This is the Shell, I/O Redirections and filters
 6. Prints the third line
 7. Prints Best School to a file with a weird name
 8. save the current state of the directory to a ls_cwd_content file
+9. Duplicatin the last of iacta
