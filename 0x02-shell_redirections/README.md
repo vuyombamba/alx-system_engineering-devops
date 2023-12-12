@@ -6,3 +6,4 @@ This is the Shell, I/O Redirections and filters
 3. Prints out the content of /etc/passwd and /etc/hosts
 4. Print out the last 10 lines of /etc/passwd
 5. Prints out the first 10 lines of /etc/passwd
+6. Prints the third line
