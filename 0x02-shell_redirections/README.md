@@ -7,3 +7,5 @@ This is the Shell, I/O Redirections and filters
 4. Print out the last 10 lines of /etc/passwd
 5. Prints out the first 10 lines of /etc/passwd
 6. Prints the third line
+7. Prints Best School to a file with a weird name
+8. save the current state of the directory to a ls_cwd_content file
