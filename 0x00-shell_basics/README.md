@@ -16,3 +16,4 @@
 16. cleans emacs files by deleting all files that end with ~
 17. Creates a directory and subdirectories in one command
 18. list files and directories in the current directory and separates them with commas
+19. to be honest this one really confuses me
