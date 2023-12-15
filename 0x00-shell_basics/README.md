@@ -6,3 +6,4 @@
 5. list files and user IDs
 6. adds the my_first_directory in /tmp directory
 7. moves betty to my_first_directory
+8. deletes the betty file 
