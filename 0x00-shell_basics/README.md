@@ -8,3 +8,4 @@
 7. moves betty to my_first_directory
 8. deletes the betty file 
 9. deletes the my_first_directory
+10. moves to the previous directory
