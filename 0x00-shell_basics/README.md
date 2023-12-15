@@ -15,3 +15,4 @@
 15. Moves file that start with an upper case to /tmp/u
 16. cleans emacs files by deleting all files that end with ~
 17. Creates a directory and subdirectories in one command
+18. list files and directories in the current directory and separates them with commas
