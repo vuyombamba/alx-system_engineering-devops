@@ -11,3 +11,4 @@
 10. moves to the previous directory
 11. lists all files in the current, parent and boot directory
 12. prints out the file type
+13. Links two files 
