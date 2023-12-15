@@ -12,3 +12,4 @@
 11. lists all files in the current, parent and boot directory
 12. prints out the file type
 13. Links two files 
+15. Moves file that start with an upper case to /tmp/u
