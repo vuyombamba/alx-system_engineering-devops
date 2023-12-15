@@ -13,3 +13,4 @@
 12. prints out the file type
 13. Links two files 
 15. Moves file that start with an upper case to /tmp/u
+16. cleans emacs files by deleting all files that end with ~
