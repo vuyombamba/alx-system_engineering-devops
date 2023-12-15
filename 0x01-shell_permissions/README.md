@@ -5,3 +5,4 @@ README file for 0x01-shell_permissions
 3 changes the owner from betty to hello
 4. Creates an empty file called hello
 5. write executable permission to the current user
+6. gives permission to a group
