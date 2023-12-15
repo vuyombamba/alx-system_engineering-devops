@@ -5,3 +5,4 @@
 4. lists the contents of thecurrent directory including the .
 5. list files and user IDs
 6. adds the my_first_directory in /tmp directory
+7. moves betty to my_first_directory
