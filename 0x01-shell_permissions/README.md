@@ -7,3 +7,4 @@ README file for 0x01-shell_permissions
 5. write executable permission to the current user
 6. gives permission to a group
 7. I need to learn this
+Modifies permissions of the owner, group and other users. Only other users have permission to the file
