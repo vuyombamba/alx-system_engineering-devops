@@ -9,3 +9,4 @@ README file for 0x01-shell_permissions
 7. I need to learn this
 Modifies permissions of the owner, group and other users. Only other users have permission to the file
 8. James bond gives permissions only to other users
+10. duplicate olleh permissions and sets them to hello
