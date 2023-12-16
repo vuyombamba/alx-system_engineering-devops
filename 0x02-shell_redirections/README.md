@@ -20,3 +20,4 @@ This is the Shell, I/O Redirections and filters
 Displays all the lines that dont contaiin bin
 Displays lines that start with a letter
 Replaced A with c from input z and e
+Removes all c and C from the input
