@@ -6,3 +6,4 @@ README file for 0x01-shell_permissions
 4. Creates an empty file called hello
 5. write executable permission to the current user
 6. gives permission to a group
+7. I need to learn this
