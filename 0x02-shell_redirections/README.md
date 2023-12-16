@@ -17,7 +17,8 @@ This is the Shell, I/O Redirections and filters
 14. Displays the line containing the word root from the /etc/passwd file
 15. counts the number of 'bin' in /etc/passwd
 16. displays the lines contaning root and 3 lines after
-Displays all the lines that dont contaiin bin
-Displays lines that start with a letter
-Replaced A with c from input z and e
-Removes all c and C from the input
+17. Displays all the lines that dont contaiin bin
+18. Displays lines that start with a letter
+19. Replaced A with c from input z and e
+20. Removes all c and C from the input
+21. Display the input in reverse
