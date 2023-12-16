@@ -13,3 +13,4 @@ This is the Shell, I/O Redirections and filters
 10. Deleting all the .js file in the current directory and subdirectories
 11. Prints the amount of directories in the current directory
 12. prints the 10 newest files
+13. creates unique words and prints them in a sorts them so they only display once
