@@ -22,3 +22,4 @@ This is the Shell, I/O Redirections and filters
 19. Replaced A with c from input z and e
 20. Removes all c and C from the input
 21. Display the input in reverse
+22. Displays users and their home directories in a user order
