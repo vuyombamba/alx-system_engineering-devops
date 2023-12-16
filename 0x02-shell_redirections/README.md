@@ -14,3 +14,4 @@ This is the Shell, I/O Redirections and filters
 11. Prints the amount of directories in the current directory
 12. prints the 10 newest files
 13. creates unique words and prints them in a sorts them so they only display once
+14. Displays the line containing the word root from the /etc/passwd file
