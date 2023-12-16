@@ -12,3 +12,4 @@ This is the Shell, I/O Redirections and filters
 9. Duplicatin the last of iacta
 10. Deleting all the .js file in the current directory and subdirectories
 11. Prints the amount of directories in the current directory
+12. prints the 10 newest files
