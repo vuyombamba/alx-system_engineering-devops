@@ -15,3 +15,4 @@ This is the Shell, I/O Redirections and filters
 12. prints the 10 newest files
 13. creates unique words and prints them in a sorts them so they only display once
 14. Displays the line containing the word root from the /etc/passwd file
+15. counts the number of 'bin' in /etc/passwd
