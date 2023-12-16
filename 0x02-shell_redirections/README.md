@@ -18,3 +18,4 @@ This is the Shell, I/O Redirections and filters
 15. counts the number of 'bin' in /etc/passwd
 16. displays the lines contaning root and 3 lines after
 Displays all the lines that dont contaiin bin
+Displays lines that start with a letter
