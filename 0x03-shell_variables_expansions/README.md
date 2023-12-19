@@ -12,3 +12,4 @@
 10. displays BREATH to the power LOVE
 11. Converts a number to binary
 12. Print the combination of aa from a..z but skipping oo
+13. prints a digit with 2 decimal places
