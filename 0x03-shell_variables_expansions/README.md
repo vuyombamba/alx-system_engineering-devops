@@ -11,3 +11,4 @@
 9. Prints POWER / DIVIDE
 10. displays BREATH to the power LOVE
 11. Converts a number to binary
+12. Print the combination of aa from a..z but skipping oo
