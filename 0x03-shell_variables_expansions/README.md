@@ -7,3 +7,4 @@
 5. Prints all local variables and environment variables
 6. Creates a variable and sets a value to it
 7. creates a new global variable
+8. Prints the result of the addition of 128
