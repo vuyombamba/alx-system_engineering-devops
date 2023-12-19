@@ -9,3 +9,4 @@
 7. creates a new global variable
 8. Prints the result of the addition of 128
 9. Prints POWER / DIVIDE
+10. displays BREATH to the power LOVE
